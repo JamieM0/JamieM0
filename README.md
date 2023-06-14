@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about C#
 - 📫 Email me: jamie@jmatthews.uk
 - ℹ Learn more: https://jmatthews.uk
+
+[![My GitHub stats](https://github-readme-stats-q5rg5eu1y-jamiem0.vercel.app/api?username=jamiem0)](https://github.com/jamiem0/github-readme-stats)
