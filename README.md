@@ -1,6 +1,6 @@
 ##  Hi! 👋
 ### I'm [Jamie Matthews](https://jmatthews.uk)
-I'm currently working on [Simple Encryption Program](https://github.com/jamiem0/sep)
+I'm currently working on [Simple Encryption Program (SEP)](https://github.com/jamiem0/sep), [SEP Authenticator](https://github.com/jamiem0/sep-authenticator), and, in the future, [SEP for Web](https://sep.jmatthews.uk)
 
 ### 📖 What I Know
 * C# (OOP)
@@ -18,6 +18,7 @@ I'm currently working on [Simple Encryption Program](https://github.com/jamiem0/
 
 ### ⭐ Certifications
 * [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/jamiem0/foundational-c-sharp-with-microsoft)
+* Microsoft Office Certifications
 
 ### Contact
 You can email me by: 
