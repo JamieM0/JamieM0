@@ -9,12 +9,14 @@ I'm currently working on [Simple Encryption Program (SEP)](https://github.com/ja
 * Python
 * JavaScript
 * Java
+* Winforms, WPF, & UWP
 
 ### 🌱 What I'm learning
 * SQL & Databases
 * ASP.NET
 * Unreal Engine (Fundamentals)
 * Unity (Fundamentals)
+* Blazor
 
 ### ⭐ Certifications
 * [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/jamiem0/foundational-c-sharp-with-microsoft)
