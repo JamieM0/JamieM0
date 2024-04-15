@@ -23,7 +23,7 @@ I'm currently working on [Simple Encryption Program (SEP)](https://github.com/ja
 * Microsoft Office Certifications
 
 ### Contact
-You can email me by: 
+You can contact me by: 
 * Email: [jamie@jmatthews.uk](mailto:jamie@jmatthews.uk)
 * Twitter/X DMs: [@jamiematthews0](https://twitter.com/jamiematthews0)
 * Through Github DMs
