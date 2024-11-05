@@ -2,7 +2,7 @@
 ### I'm [Jamie Matthews](https://jmatthews.uk)
 I'm a Software Engineering student at Queen's University Belfast.
 
-My current projects are [Simple Encryption Program (SEP)](https://github.com/jamiem0/sep), [SEP Authenticator](https://github.com/jamiem0/sep-authenticator), and, in the future, SEP for Web
+My current projects are [Simple Encryption Program (SEP)](https://github.com/jamiem0/sep) (including its varient [SEP Micro](https://github.com/jamiem0/sep-micro)), and [OpenAI API Structured Outputs](https://github.com/jamiem0/structured-outputs).
 
 ### 📖 What I Know
 * C# & .NET Framework
@@ -19,6 +19,7 @@ My current projects are [Simple Encryption Program (SEP)](https://github.com/jam
 * Unreal Engine (Fundamentals)
 * Unity (Fundamentals)
 * Blazor
+* Networking
 
 ### ⭐ Certifications
 * [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/jamiem0/foundational-c-sharp-with-microsoft)
