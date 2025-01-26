@@ -7,19 +7,17 @@ My current projects are [Simple Encryption Program (SEP)](https://github.com/jam
 ### 📖 What I Know
 * C# & .NET Framework
 * Object-Oriented Programming
-* Cloud Computing, e.g., AWS, Microsoft Azure, IBM Cloud
+* Cloud Computing
 * Python
 * Java
 * Winforms, WPF, & UWP
 
 ### 🌱 What I'm learning
 * SQL & Databases
-* JavaScript
-* ASP.NET
 * Unreal Engine (Fundamentals)
 * Unity (Fundamentals)
-* Blazor
 * Networking
+* Local LLMs
 
 ### ⭐ Certifications
 * [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/jamiem0/foundational-c-sharp-with-microsoft)
