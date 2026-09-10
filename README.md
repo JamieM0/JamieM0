@@ -1,37 +1,63 @@
-##  Hi! 👋
-### I'm [Jamie Matthews](https://jmatthews.uk)
-I'm a Software Engineering student at Queen's University Belfast.
+#  Hi, I'm Jamie 👋
+I'm a Software Engineering student at Queen's University Belfast, currently working in AI, Data Integration & Infrastructure at Xirgo.
 
-My current main project is the [Universal Automation Wiki](https://github.com/jamiem0/uaw) - an open-source platform that maps real-world processes into interactive time-based simulations, showing who does what, when, and with which resources. 
+I'm particularly interested in building systems that make AI and automation more structured, reliable, and useful; from modelling real-world processes to orchestrating multiple AI agents for decision support.
 
-Each simulation models objects over realistic timeframes, creating dynamic digital twins of everything from bakeries to manufacturing facilities. Users can explore bottlenecks, test optimisation scenarios, and visualise how automation changes would impact real operations.
+# What I'm Working On
+## Universal Automation Wiki / WorkSpec
+An open-source platform for modelling, simulating, and validating real-world processes.
 
-The playground features a real-time validation engine that automatically identifies issues like resource conflicts, timing violations, and dependency errors. Users can build new validation metrics using computational functions, ensuring simulations meet industry-specific quality standards with transparent, objective scoring in addition to subjective assessment via the planned LLM extension of the validation system. Contributors can suggest new metrics and validations to add to our 'built-in' collection, which will allow us to offer a sound starting point for any industry.
+UAW explores how complex workflows can be represented as structured, executable simulations rather than static process diagrams. Its tooling includes interactive timeline editing, resource modelling, real-time validation, custom metrics, and WorkSpec, a specification for representing workflows in a form that can be understood by both humans and AI systems.
 
+-> [Universal Automation Wiki](https://github.com/jamiem0/uaw)
+
+-> [WorkSpec Studio](https://universalautomation.wiki/playground)
+
+## Perspectives
+A multi-agent AI system for structured analysis, decision support, and forecasting.
+
+Perspectives uses independent proposals, specialised analytical personas, structured interrogation, web-grounded research, and dedicated analysis agents to explore disagreement and uncertainty rather than relying on a single model response.
+
+I've also been experimenting with prediction and calibration: comparing forecasts against real outcomes to understand where multi-agent systems succeed and fail.
+
+-> [Perspectives](https://getperspectives.app)
+
+-> [Development notes](https://blog.jmatthews.uk/tag/perspectives)
+
+-> [The Signal](https://thesignal.getperspectives.app/)
+
+## Areas I'm Interested In
+
+-   Applied AI & LLM systems
+    
+-   Agentic workflows and orchestration
+    
+-   AI-assisted software engineering
+    
+-   Process modelling and simulation
+    
+-   Structured outputs and validation
+    
+-   Enterprise AI integration
+    
+-   Data & infrastructure
+    
+-   Developer tooling
+
+## Technologies
+I work across JavaScript/TypeScript, Python, Java, C#/.NET, SQL and web technologies, with experience using cloud platforms, LLM APIs, local models, and modern AI development tools.
+
+I'm less interested in collecting technologies than in choosing the right combination to turn an idea into a useful working system.
+
+## Writing
+I write about AI systems, automation, forecasting, and things I learn while building them.
+
+-> [blog.jmatthews.uk](https://blog.jmatthews.uk)
+
+## Earlier work
 My previous work includes:
-[Simple Encryption Program (SEP)](https://github.com/jamiem0/sep) (including its varient [SEP Micro](https://github.com/jamiem0/sep-micro)) - these are simple to use programs aimed at providing desktop windows users with an easy way to encrypt a file with a basic password, without needing to set up potentially complex public/private key signing.
-
-The micro version was designed so that pretty much every line of code was understandable by anyone. I am no longer actively maintaining either of these projects due to the 'closed off' nature of their availability. 
-
-As a replacement, there's [SEP for Web](https://github.com/JamieM0/sep-web). This is designed to be portable and useable on any modern device (as long as it has a web browser capable of running javascript client-side).
-
-See also some earlier work on [OpenAI API Structured Outputs](https://github.com/jamiem0/structured-outputs).
-
-### 📖 What I know
-* .NET Framework
-* Object-Oriented Programming
-* Cloud Computing
-* SQL & Databases
-
-### 🌱 What I'm learning
-* JavaScript & Web Development
-* Modern frameworks (e.g., Svelte)
-* Networking
-* Machine Learning
-
-### ⭐ Certifications
-* [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/jamiem0/foundational-c-sharp-with-microsoft)
-* [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/389ea422-b153-4b6d-8720-4322a537f71c)
+- [OpenAI Structured Outputs](https://github.com/jamiem0/structured-outputs): experiments with constrained/structured model responses in Java and Python
+- [Simple Encryption Program](https://github.com/jamiem0/sep): an early C# project exploring accessible client-side file encryption
 
 ### Contact
 You can contact me by: 
